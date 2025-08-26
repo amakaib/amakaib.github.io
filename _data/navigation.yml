@@ -4,4 +4,4 @@ main:
   - title: "Teaching"
     url: /teaching/
   - title: "CV"
-    file: cv.pdf
+    file: "/cv.pdf"
