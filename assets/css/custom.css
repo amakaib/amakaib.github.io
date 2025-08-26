@@ -1,0 +1,61 @@
+body {
+  font-size: 18px;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+p {
+  font-size: 1em;
+}
+
+.masthead {
+  z-index: 10 !important;
+  position: relative;
+}
+
+.custom-modal {
+  display: none;
+  position: fixed;
+  z-index: 9999;
+  left: 0; top: 0;
+  width: 100%; height: 100%;
+  overflow: auto;
+  background-color: rgba(0,0,0,0.5);
+}
+
+.custom-modal-content {
+  background-color: #282c34;
+  margin: 40px auto;
+  padding: 20px;
+  border-radius: 10px;
+  width: 80%;
+  max-width: 500px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.3);
+}
+
+.custom-close {
+  color: #9e2824;
+  float: right;
+  font-size: 24px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.popup-trigger {
+  color: #cbe0f5;
+  cursor: pointer;
+  text-decoration: None;
+}
+
+.popup-trigger:hover {
+  color: #cbe0f5;
+  text-decoration: none;
+}
+
+/* Force masthead and nav below modal overlay */
+.masthead, 
+.masthead * {
+  z-index: 0 !important;
+}
