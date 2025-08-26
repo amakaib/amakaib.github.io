@@ -4,4 +4,5 @@ main:
   - title: "Teaching"
     url: /_pages/teaching/
   - title: "CV"
-    url: /_pages/cv/
+    url: /cv.pdf
+    target: _blank
