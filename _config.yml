@@ -21,6 +21,9 @@ github_username: amakaib
 minimal_mistakes_skin: dark
 search: false
 
+atom_feed:
+  hide: true
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
