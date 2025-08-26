@@ -1,7 +1,7 @@
 main:
   - title: "Research"
-    url: /research/
+    url: /pages/research/
   - title: "Teaching"
-    url: /teaching/
+    url: /_pages/teaching/
   - title: "CV"
     file: "/cv.pdf"
