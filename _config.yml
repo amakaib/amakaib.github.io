@@ -100,7 +100,10 @@ defaults:
   # top-level files like index.md
   - scope:
       path: ""  # empty path means all files
+      type: pages
     values:
+      layout: single
+      author_profile: true
       js: "custom"
 
 category_archive:
