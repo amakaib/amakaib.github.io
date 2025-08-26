@@ -1,6 +1,6 @@
 main:
   - title: "Research"
-    url: /pages/research/
+    url: /_pages/research/
   - title: "Teaching"
     url: /_pages/teaching/
   - title: "CV"
