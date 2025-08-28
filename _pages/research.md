@@ -3,7 +3,6 @@ layout: single
 title: "Research"
 ---
 
-<br>
 
 <hr>
 
