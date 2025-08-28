@@ -12,7 +12,7 @@ title: "Research"
   <div>
     <h3>Fast Inference for Next-Gen Gravitational Wave Detectors</h3>
     <p>
-      Estimating the 17 parameters of the gravitational wave signal emitted by a binary neutron star merger is made easy with current signals using a powerful approximation technique known as reduced order modelling. However, next-gen gravitational wave detectors will encounter a number of new physical effects. In this paper, we demonstrate that these effects severely limit the capabilites of reduced order modelling to make inference possible for binary neutron star systems observed with next-generation detectors.
+      Fast and accurate parameter estimation on the 17-dimensional gravitational wave signal emitted by binary neutron star mergers is presently made possible by a powerful approximation technique known as reduced order modelling. In this paper, we demonstrate that a number of new physical effects that arise in next-gen gravitational wave detectors severely limit the capabilites of reduced order modelling to make inference possible for binary neutron star systems.
     </p>
     <a href="https://arxiv.org/abs/2503.04073" target="_blank" class="btn btn--primary">Read Paper</a>
   </div>
