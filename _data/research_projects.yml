@@ -1,5 +1,5 @@
 research_projects:
-  - image_path: /assets/images/the_plot_shaded.pdf
+  - image_path: /assets/images/gw_rom.jpg
     title: "Reduced order modelling with XG Gravitational Wave detectors"
     excerpt: "Estimating the 17 parameters that make up gravitational waves emitted from binary neutron star mergers can be accelerated using a powerful approximation technique known as reduced order modelling. The next generation of gravitational wave detectors, in particular Cosmic Explorer, will be significantly more sensitive than advanced LIGO. However, gravitational waves detected by Cosmic Explorer will be subject to a number of detector effects. In this paper, we demonstrate that these detector effects severely limit the capabilites of reduced order modelling to make inference possible for binary neutron star systems observed with next-generation detectors."
     url: "https://arxiv.org/abs/2503.04073"
