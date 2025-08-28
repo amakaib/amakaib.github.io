@@ -1,6 +1,10 @@
 ---
 layout: single
-title: Research
+title: "Research"
+permalink: /research/
+classes: wide
 ---
 
-Under construction!
+## My Research Projects
+
+{% include feature_row id="research_projects" type="left" %}
