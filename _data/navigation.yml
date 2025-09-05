@@ -2,9 +2,9 @@ main:
   - title: "About"
     url: "/"
   - title: "Research"
-    url: /_pages/research/
+    url: "/_pages/research"
   - title: "Teaching"
-    url: /_pages/teaching/
+    url: "/_pages/teaching"
   - title: "CV"
     url: /cv.pdf
     target: _blank
