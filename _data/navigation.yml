@@ -1,6 +1,6 @@
 main:
   - title: "About"
-    url: /index/
+    url: /
   - title: "Research"
     url: /_pages/research/
   - title: "Teaching"
