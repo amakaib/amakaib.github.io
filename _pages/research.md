@@ -8,7 +8,7 @@ title: "Research"
 <hr>
 
 <div style="text-align: center; margin-bottom: 20px;">
-  <h3>Fast Inference for Next-Gen Gravitational Wave Detectors</h3>
+  <h3>Challenges for Fast Inference with Next-Gen Gravitational Wave Detectors</h3>
     <img src="/assets/images/gw_rom.jpg" alt="Gravitational Waves" style="width: 540px; max-width: 100%; border-radius: 8px;">
     <div>
     <p style="margin-top: 20px;">
