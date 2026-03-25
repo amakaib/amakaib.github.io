@@ -76,6 +76,9 @@ author:
     - label: "ORCID"
       icon: "fa-brands fa-orcid"
       url: "https://orcid.org/0000-0002-3421-8724"
+    - label: "INSPIRE"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://inspirehep.net/authors/2955065"
 
 footer:
   links:
@@ -88,6 +91,9 @@ footer:
     - label: "ORCID"
       icon: "fa-brands fa-orcid"
       url: "https://orcid.org/0000-0002-3421-8724"
+    - label: "INSPIRE"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://inspirehep.net/authors/2955065"
   custom: modal
 
 defaults:
