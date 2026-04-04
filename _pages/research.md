@@ -4,6 +4,8 @@ permalink: /research/
 title: "Research"
 ---
 
+<hr>
+
 <div style="text-align: center; margin-bottom: 30px;">
   <p>A full list of my publications can be found on INSPIRE.</p>
   <a href="https://inspirehep.net/authors/2955065" target="_blank" class="btn btn--primary">Publications on INSPIRE</a>
